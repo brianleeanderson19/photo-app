@@ -20,5 +20,4 @@
 /node_modules
 /yarn-error.log
 /config/secrets.yml
-/config/devise.rb
 .byebug_history
